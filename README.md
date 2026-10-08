@@ -216,7 +216,7 @@ Also: Framer Motion, GSAP, pygame, Gemini API, Ollama, RPG Maker MZ, Pyxel, VMwa
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GozyuPolar-ui&theme=radical&hide_border=true&background=0b1d2e" alt="Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GozyuPolar-ui&theme=react-dark&hide_border=true&bg_color=0b1d2e&color=58a6ff&line=c0392b&point=ffffff" alt="Activity graph" width="95%" />
+<img src="https://ghchart.rshah.org/58a6ff/GozyuPolar-ui" alt="Contribution calendar" width="95%" />
 
 </div>
 
