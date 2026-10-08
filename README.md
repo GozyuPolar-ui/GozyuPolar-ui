@@ -71,9 +71,11 @@ I'm comfortable communicating casually in both Indonesian and English, and I oft
 ### Detective Conan Gallery
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GozyuPolar-ui/GozyuPolar-ui/main/assets/conan-1.jpg" width="240" alt="Conan Edogawa" title="Conan Edogawa" />
-  <img src="https://raw.githubusercontent.com/GozyuPolar-ui/GozyuPolar-ui/main/assets/shinichi.jpg" width="240" alt="Shinichi Kudo" title="Shinichi Kudo" />
-  <img src="https://raw.githubusercontent.com/GozyuPolar-ui/GozyuPolar-ui/main/assets/ran-and-conan.jpg" width="240" alt="Ran and Conan" title="Ran and Conan" />
+  <img src="https://raw.githubusercontent.com/GozyuPolar-ui/GozyuPolar-ui/main/assets/conan.jpg" width="240" height="240" alt="Conan Edogawa" title="Conan Edogawa" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/GozyuPolar-ui/GozyuPolar-ui/main/assets/shinichi.jpg" width="240" height="240" alt="Shinichi Kudo" title="Shinichi Kudo" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/GozyuPolar-ui/GozyuPolar-ui/main/assets/ran-and-conan.jpg" width="240" height="240" alt="Ran and Conan" title="Ran and Conan" />
 </p>
 
 ---
