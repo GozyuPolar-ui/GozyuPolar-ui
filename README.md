@@ -2,19 +2,46 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d2e,60:1f3a5f,100:c0392b&height=220&section=header&text=Raymond%20(Reyy)&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Self-taught%20Developer%20from%20Indonesia&descAlignY=62&descSize=18" width="100%" />
 
-<img src="https://github.com/GozyuPolar-ui.png" width="140" alt="Raymond" />
-
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Web+%7C+Game+%7C+AI+Tooling;CS+Student+at+USU;Building+things+instead+of+over-planning;Open+to+collaboration" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
+
+<a href="#personal"><b>Personal</b></a> &nbsp;|&nbsp;
+<a href="#case-file-try-to-solve-it"><b>Case File</b></a> &nbsp;|&nbsp;
+<a href="#professional"><b>Professional</b></a> &nbsp;|&nbsp;
+<a href="#github-stats"><b>Stats</b></a> &nbsp;|&nbsp;
+<a href="#open-to-work-and-collaboration"><b>Contact</b></a>
+
+<br/><br/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=GozyuPolar-ui&label=Profile+views&color=1f3a5f&style=flat)
 ![Followers](https://img.shields.io/github/followers/GozyuPolar-ui?label=Followers&style=flat&color=1f3a5f)
-![Repos](https://img.shields.io/badge/Based_in-Indonesia-c0392b?style=flat)
+![Location](https://img.shields.io/badge/Based_in-Indonesia-c0392b?style=flat)
 
 </div>
+
+---
+
+<table>
+<tr>
+<td width="180" align="center" valign="top">
+<img src="https://github.com/GozyuPolar-ui.png" width="150" alt="Raymond" />
+</td>
+<td valign="top">
+
+### Hi, I'm Raymond (Reyy)
+
+Self-taught developer from Indonesia, currently studying Computer Science at Universitas Sumatera Utara (USU). I build web apps, games, and AI tools, and I learn best by building first instead of over-planning.
+
+**Quick facts**
+- Studying: Computer Science, USU (class of 2025)
+- Focus: web, game development, AI tooling
+- Languages: Indonesian, English, Mandarin (passive)
+- Favorite fictional detective: Shinichi Kudo
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -38,7 +65,6 @@ I'm comfortable communicating casually in both Indonesian and English, and I oft
 
 | Level | School |
 |---|---|
-| Elementary and Junior High | Global Prima |
 | Senior High School | SMA Brigjend Katamso 1 Medan |
 | University | Universitas Sumatera Utara (USU), Computer Science, class of 2025 |
 
@@ -55,7 +81,7 @@ I'm comfortable communicating casually in both Indonesian and English, and I oft
 
 </details>
 
-<details>
+<details open>
 <summary><b>Hobbies and Interests</b></summary>
 
 <br/>
@@ -66,6 +92,65 @@ I'm comfortable communicating casually in both Indonesian and English, and I oft
 - **Ultraman:** I enjoy the Ultraman franchise, both the figures and the games.
 - **JRPGs:** I love pixel art and HD-2D JRPGs, such as Octopath Traveler and Chained Echoes.
 - **Cybersecurity and CTF:** I've had a long-standing interest in offensive security and capture-the-flag challenges. I run a small home lab with Arch Linux and Kali Linux in VMware for experimenting.
+
+</details>
+
+### Detective Conan Gallery
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/GozyuPolar-ui/GozyuPolar-ui/main/assets/conan-1.jpg" width="250" alt="Conan Edogawa" /><br/>
+<sub>Conan Edogawa</sub>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/GozyuPolar-ui/GozyuPolar-ui/main/assets/shinichi.jpg" width="250" alt="Shinichi Kudo" /><br/>
+<sub>Shinichi Kudo</sub>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/GozyuPolar-ui/GozyuPolar-ui/main/assets/ran-and-conan.jpg" width="250" alt="Ran and Conan" /><br/>
+<sub>Ran and Conan</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## Case File: Try to Solve It
+
+A small mystery in the style I like to practice with. Everything you need is below, with a full timeline. Click to reveal the hints and the answer once you've tried.
+
+**The case: The Missing Cake**
+
+At 2:30 PM, Mom bought a cake and put it in the fridge, inside a plain, opaque brown box with no label. She told nobody what flavor it was. At 4:00 PM, the cake was gone. At 4:30 PM, the detective questioned three suspects, **each one separately**. The detective only said: "A cake went missing from the fridge." No flavor was mentioned.
+
+| Suspect | Statement (given separately at 4:30 PM) |
+|---|---|
+| Dito | "I was in my room from 3:00 to 4:00. I never went to the kitchen." |
+| Sari | "I was watering plants in the garden from 3:00 to 4:00. I only came inside at 4:00." |
+| Budi | "I was waiting at the front gate for a delivery from 3:00 to 4:00. I didn't touch that strawberry cake." |
+
+**Who took the cake?**
+
+<details>
+<summary><b>Hint</b></summary>
+
+<br/>
+
+Look at what each suspect knows, and ask yourself how they could know it.
+
+</details>
+
+<details>
+<summary><b>Reveal the answer</b></summary>
+
+<br/>
+
+**Budi.** The box was opaque and unlabeled, Mom told nobody the flavor, and the detective never mentioned it. The only way to know it was a *strawberry* cake was to have opened the box. That slip of the tongue gives him away.
 
 </details>
 
@@ -87,9 +172,8 @@ I build things across the stack: web apps, games, desktop tools, and AI-powered 
 
 <br/>
 
-- **IT Support Intern, Bank Danamon:** internship during the break after finishing high school, before starting university
-- **IT Support (vocational internship), Dinas Ketenagakerjaan:** during my final year of high school
-- **Computer Lab Assistant (vocational internship), Universitas Prima:** during my second year of high school
+- **Intern, Computer Repair Shop (Toko Service Computer)**
+- **IT Support, Dinas Ketenagakerjaan**
 
 </details>
 
@@ -214,15 +298,17 @@ Also: Framer Motion, GSAP, pygame, Gemini API, Ollama, RPG Maker MZ, Pyxel, VMwa
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=GozyuPolar-ui&show_icons=true&theme=radical&hide_border=true&bg_color=0b1d2e" alt="Stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GozyuPolar-ui&layout=compact&theme=radical&hide_border=true&bg_color=0b1d2e" alt="Top languages" />
 
+<br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GozyuPolar-ui&theme=radical&hide_border=true&background=0b1d2e" alt="Streak" />
+
+<br/><br/>
 
 <img src="https://ghchart.rshah.org/58a6ff/GozyuPolar-ui" alt="Contribution calendar" width="95%" />
 
 </div>
 
----
-
-## Contribution Snake
+### Contribution Snake
 
 <div align="center">
 
