@@ -2,46 +2,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d2e,60:1f3a5f,100:c0392b&height=220&section=header&text=Raymond%20(Reyy)&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Self-taught%20Developer%20from%20Indonesia&descAlignY=62&descSize=18" width="100%" />
 
+<img src="https://github.com/GozyuPolar-ui.png" width="140" alt="Raymond" />
+
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Web+%7C+Game+%7C+AI+Tooling;CS+Student+at+USU;Building+things+instead+of+over-planning;Open+to+collaboration" alt="Typing SVG" />
 
-<br/><br/>
-
-<a href="#personal"><b>Personal</b></a> &nbsp;|&nbsp;
-<a href="#case-file-try-to-solve-it"><b>Case File</b></a> &nbsp;|&nbsp;
-<a href="#professional"><b>Professional</b></a> &nbsp;|&nbsp;
-<a href="#github-stats"><b>Stats</b></a> &nbsp;|&nbsp;
-<a href="#open-to-work-and-collaboration"><b>Contact</b></a>
-
-<br/><br/>
+<br/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=GozyuPolar-ui&label=Profile+views&color=1f3a5f&style=flat)
 ![Followers](https://img.shields.io/github/followers/GozyuPolar-ui?label=Followers&style=flat&color=1f3a5f)
 ![Location](https://img.shields.io/badge/Based_in-Indonesia-c0392b?style=flat)
 
 </div>
-
----
-
-<table>
-<tr>
-<td width="180" align="center" valign="top">
-<img src="https://github.com/GozyuPolar-ui.png" width="150" alt="Raymond" />
-</td>
-<td valign="top">
-
-### Hi, I'm Raymond (Reyy)
-
-Self-taught developer from Indonesia, currently studying Computer Science at Universitas Sumatera Utara (USU). I build web apps, games, and AI tools, and I learn best by building first instead of over-planning.
-
-**Quick facts**
-- Studying: Computer Science, USU (class of 2025)
-- Focus: web, game development, AI tooling
-- Languages: Indonesian, English, Mandarin (passive)
-- Favorite fictional detective: Shinichi Kudo
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -81,7 +54,7 @@ I'm comfortable communicating casually in both Indonesian and English, and I oft
 
 </details>
 
-<details open>
+<details>
 <summary><b>Hobbies and Interests</b></summary>
 
 <br/>
@@ -97,62 +70,11 @@ I'm comfortable communicating casually in both Indonesian and English, and I oft
 
 ### Detective Conan Gallery
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/GozyuPolar-ui/GozyuPolar-ui/main/assets/conan-1.jpg" width="250" alt="Conan Edogawa" /><br/>
-<sub>Conan Edogawa</sub>
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/GozyuPolar-ui/GozyuPolar-ui/main/assets/shinichi.jpg" width="250" alt="Shinichi Kudo" /><br/>
-<sub>Shinichi Kudo</sub>
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/GozyuPolar-ui/GozyuPolar-ui/main/assets/ran-and-conan.jpg" width="250" alt="Ran and Conan" /><br/>
-<sub>Ran and Conan</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## Case File: Try to Solve It
-
-A small mystery in the style I like to practice with. Everything you need is below, with a full timeline. Click to reveal the hints and the answer once you've tried.
-
-**The case: The Missing Cake**
-
-At 2:30 PM, Mom bought a cake and put it in the fridge, inside a plain, opaque brown box with no label. She told nobody what flavor it was. At 4:00 PM, the cake was gone. At 4:30 PM, the detective questioned three suspects, **each one separately**. The detective only said: "A cake went missing from the fridge." No flavor was mentioned.
-
-| Suspect | Statement (given separately at 4:30 PM) |
-|---|---|
-| Dito | "I was in my room from 3:00 to 4:00. I never went to the kitchen." |
-| Sari | "I was watering plants in the garden from 3:00 to 4:00. I only came inside at 4:00." |
-| Budi | "I was waiting at the front gate for a delivery from 3:00 to 4:00. I didn't touch that strawberry cake." |
-
-**Who took the cake?**
-
-<details>
-<summary><b>Hint</b></summary>
-
-<br/>
-
-Look at what each suspect knows, and ask yourself how they could know it.
-
-</details>
-
-<details>
-<summary><b>Reveal the answer</b></summary>
-
-<br/>
-
-**Budi.** The box was opaque and unlabeled, Mom told nobody the flavor, and the detective never mentioned it. The only way to know it was a *strawberry* cake was to have opened the box. That slip of the tongue gives him away.
-
-</details>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GozyuPolar-ui/GozyuPolar-ui/main/assets/conan-1.jpg" width="240" alt="Conan Edogawa" title="Conan Edogawa" />
+  <img src="https://raw.githubusercontent.com/GozyuPolar-ui/GozyuPolar-ui/main/assets/shinichi.jpg" width="240" alt="Shinichi Kudo" title="Shinichi Kudo" />
+  <img src="https://raw.githubusercontent.com/GozyuPolar-ui/GozyuPolar-ui/main/assets/ran-and-conan.jpg" width="240" alt="Ran and Conan" title="Ran and Conan" />
+</p>
 
 ---
 
